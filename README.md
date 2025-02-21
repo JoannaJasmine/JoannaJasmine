@@ -1,4 +1,4 @@
-<img src="" alt="👋 Hi there! I'm Vatey" title="👋 Hi there! I'm Vatey"/>
+<img src="./me.jpg" alt="👋 Hi there! I'm Vatey" title="👋 Hi there! I'm Vatey"/>
 <div align="justify">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
 
-  <!-- <a href="https://t.me/technologykh24">
+  <a href="https://sopheavatey-sopheap.vercel.app">
   <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a> -->
+  </a>
 
 </div>
 <p></p>
@@ -27,7 +27,6 @@
 > Tools & Technologies: A mix of what I've mastered, what I’m exploring, and what occasionally breaks my code! 😆
 
 <table>
-
 
   <tr>
     <td align="center" width="96">
@@ -56,19 +55,11 @@
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -86,7 +77,7 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
@@ -112,24 +103,31 @@
         <img src="./vue.png" width="48" height="48" alt="vue" />
       <br>Vue JS
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
   </tr>
  <tr>
  </tr>
 </table>
 
-🎯 **What I'm up to:**  
-- Creating Odoo custom modules & API integrations  
-- Exploring Data Analysis & Machine Learning  
+---
+
+🎯 **What I'm up to:**
+
+- Creating Odoo custom modules & API integrations
+- Exploring Data Analysis & Machine Learning
 
 ---
 
 ### 🛠️ My Skills
 
-- **Odoo Development:** Custom modules, API magic, workflow automation  
+- **Odoo Development:** Custom modules, API magic, workflow automation
 - **Backend:** Python, Django, REST APIs , Odoo
-- **Frontend:** Vue.js, Angular, HTML, CSS (Tailwind)  
-- **Database:** PostgreSQL  
-- **Tools:** Docker, Git, Jira  
+- **Frontend:** Vue.js, Angular, HTML, CSS (Tailwind)
+- **Database:** PostgreSQL
+- **Tools:** Docker, Git, Jira
 
 ---
 
@@ -141,7 +139,7 @@
 
 🌟 **[Backend Integration with Parent, Student, Teacher Apps, Principal Dashboard from Odoo]**  
 💡 _Tech:_ Odoo, Python, REST APIs, Mobile App Integration
-📖 _Description:_  Integrated Odoo’s backend system with mobile apps for parents, students, teachers, and principals to optimize communication and school management. Developed custom REST APIs in Odoo to synchronize data across the Parent App (for tracking attendance, grades, and teacher communication), the Student App (for accessing assignments, schedules, and progress reports), the Teacher App (for managing classes, assignments, and communication with students), and the Principal Dashboard (for overseeing school-wide performance, generating reports, and sending notifications). This integration ensured real-time updates and seamless data flow, improving operational efficiency and providing all stakeholders with timely access to critical information.
+📖 _Description:_ Integrated Odoo’s backend system with mobile apps for parents, students, teachers, and principals to optimize communication and school management. Developed custom REST APIs in Odoo to synchronize data across the Parent App (for tracking attendance, grades, and teacher communication), the Student App (for accessing assignments, schedules, and progress reports), the Teacher App (for managing classes, assignments, and communication with students), and the Principal Dashboard (for overseeing school-wide performance, generating reports, and sending notifications). This integration ensured real-time updates and seamless data flow, improving operational efficiency and providing all stakeholders with timely access to critical information.
 
 🌟 **[Travel Request & Purchase Requisition System in Odoo]**
 💡 _Tech:_ Odoo, Python, Odoo Modules, Workflow Automation
@@ -152,7 +150,7 @@
 📖 _Description:_ Designed and developed a responsive personal portfolio website to showcase my skills and projects. The website is built with Angular for a dynamic frontend experience and Tailwind CSS for modern, customizable styling. The goal was to create a clean and professional design that reflects my expertise as an Odoo Developer, while maintaining an easy-to-navigate layout.
 
 🌟 **[Company Website]**  
-💡 _Tech:_ Wordpress, Boostrap, PHP 
+💡 _Tech:_ Wordpress, Boostrap, PHP
 📖 _Description:_ Developed a fully functional, responsive company website using WordPress and PHP. The website features a custom theme built from scratch to match the company’s branding, along with various interactive elements like contact forms, galleries, and service descriptions. Integrated MySQL for efficient content management and added custom plugins to enhance functionality. The project aimed to create a user-friendly platform for potential clients and partners to learn more about the company’s services, values, and projects.
 
 🌟 **[Delivery System Frontend with Custom AdminLTE, HTML, and Bootstrap]**  
@@ -163,11 +161,13 @@
 
 ### 📚 Learning Journey
 
-🎓 **Currently Learning:**  
-- Angular  
-- Tailwind CSS  
+🎓 **Currently Learning:**
 
-🔮 **Future Goals:**  
+- Angular
+- Tailwind CSS
+
+🔮 **Future Goals:**
+
 - Dive deeper into **Data Analysis** and **Machine Learning**
 
 ---
@@ -191,6 +191,3 @@
 🌸 Thanks for stopping by! Let’s build something amazing together! ✨
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
-
-
-
