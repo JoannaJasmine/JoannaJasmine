@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
   <a href="https://kh.linkedin.com/in/sopheavatey-sopheap-5568b01a1">
-  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-Online-brightgreen?style=flat&logo=google-chrome" alt="Website Badge">
   </a>
 
   <a href="https://sopheavatey-sopheap.vercel.app">
